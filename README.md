@@ -22,8 +22,8 @@ axis limits.
 plot_acf and plot_pacf.
 ### PROGRAM:
 ```
-NAME : Pradeep Raj P
-REG NO : 212222240073
+NAME : Vikash s
+REG NO : 212222240115
 ```
 ```
 from pandas import read_csv
